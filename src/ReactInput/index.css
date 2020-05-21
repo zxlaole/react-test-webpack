@@ -1,0 +1,14 @@
+.rt-input{
+    box-sizing: border-box;
+    margin: 0;
+    height: 40px;
+    padding: 6px 12px;
+}
+.rt-input-search-btn{
+    background-color: red;
+    color: #fff;
+    height: 40px;
+    padding: 6px 15px;
+    font-size: 16px;
+    border-radius: 2px;
+}

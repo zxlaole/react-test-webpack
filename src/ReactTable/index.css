@@ -1,0 +1,13 @@
+.rc-table{
+    border: 1px solid black;
+    width: 100%;
+}
+
+.rc-table-header-th{
+    background-color: grey;
+    padding: 12px 8px;
+}
+
+.rc-table-header-td{
+    padding: 12px 8px;
+}
